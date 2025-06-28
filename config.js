@@ -11,7 +11,7 @@ BOT_NAME: process.env.BOT_NAME || "VINER-MD",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rdl1p6.jpg",
 LANG: process.env.BOT_LANG || 'EN' ,
 FOOTER: '*ලස්සන සිංදු☘️🎉️*',
-JID: process.env.JID || "120363417168743361@newsletter",
+JID: process.env.JID || "120363389486431984@newsletter",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO,
 };
