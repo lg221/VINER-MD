@@ -1,12 +1,12 @@
 {
-  "name": "SALON-MD",
-  "version": "2.0.0",
+  "name": "VINER-MD",
+  "version": "1.0.0",
   "description": "This is whatsapp multie Device Bot created by Team visu ofc",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SALON-MD",
-    "stop": "pm2 stop SALON-MD",
-    "restart": "pm2 restart SALON-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name VINER-MD",
+    "stop": "pm2 stop VINER-MD",
+    "restart": "pm2 restart VINER-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
