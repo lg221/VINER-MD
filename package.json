@@ -12,6 +12,7 @@
     "@whiskeysockets/baileys": "npm:baileys-mod",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.13.5",
+    "jimp": "latest",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
     "util": "^0.12.4",
